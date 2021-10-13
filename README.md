@@ -1,2 +1,2 @@
 # centipede
-A rework on Atari's famous game, Centipede.
+Atari's famous game, Centipede, replicated with assembly.
